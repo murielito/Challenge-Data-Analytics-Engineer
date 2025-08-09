@@ -1,6 +1,4 @@
-# Challenge_Data_Analytics_Engineer
-
-# Challenge: Segmentación de Sellers y GenAI en Mercado Libre
+# Challenge: Segmentación de Sellers
 
 ## 📋 Contexto
 
