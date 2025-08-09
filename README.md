@@ -2,26 +2,26 @@
 
 ## 📋 Contexto
 
-Este reto consiste en abordar un caso de negocio real mediante el ciclo completo de Data Engineering, incorporando herramientas de Inteligencia Artificial Generativa (GenAI). El objetivo principal es segmentar sellers para proponer estrategias comerciales personalizadas y escalar la solución con un módulo GenAI.
+Este reto consiste en abordar un caso de negocio real, incorporando herramientas de Machine Learning e Inteligencia Artificial Generativa (GenAI). El objetivo principal es segmentar sellers para proponer estrategias comerciales personalizadas y escalar la solución con un módulo GenAI.
 
 ## 🧩 Estructura del Repositorio
 
 - `Challenge_Meli.ipynb`: Notebook completo con análisis explotarorio, modelo kmeans y extensión de Gen AI
 - `presentacion.pdf` (opcional): Slides para la sustentación.
-- El archivo se sugiere subirlo manualmente a la terminal de Colab como se en la imagen ![Ubicación del archivo CSV](imagenes/Carga_CSV.png)
+- El archivo se sugiere subirlo manualmente a la terminal de Colab como se ve en la imagen:
+- ![Cargar el archivo](Imagenes/Carga_CSV.png)
 
 ## 🚀 Instrucciones de Ejecución
 
 1. **Descarga el CSV directamente de Drive** https://drive.google.com/drive/folders/1nGPM6Q3D7JGgnD3Q84520_HHms_NGkgR
-2. **Abre el notebook** `Challenge_Meli.ipynb` en Google Colab.
+2. **Abre el notebook** `Challenge_Meli.ipynb` en Google Colab
 3. **Ejecuta cada celda en orden**. El notebook está organizado por secciones:
-    - Extracción/carga de datos
+    - Carga del archivo, recordar montarlo manualmente a la terminal de Colab
     - Análisis exploratorio
-    - Modelado de clustering
-    - Extensión GenAI (clasificador o recomendador, según opción elegida)
-    - Visualizaciones y conclusiones
-4. **Configura dependencias** si es necesario (ej: instalación de librerías).
-5. **Revisa los outputs y visualizaciones** para interpretar los resultados.
+    - Modelo de clustering
+    - Extensión GenAI (clasificador)
+    - Conclusiones
+4. **Configura dependencias** si es necesario (ej: instalación de librerías)
 
 ## 📊 Descripción de la Solución
 
