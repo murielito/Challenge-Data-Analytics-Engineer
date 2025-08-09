@@ -22,7 +22,9 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
     - Modelo de clustering
     - Extensión GenAI (clasificador)
     - Conclusiones
-4. **Configura dependencias** si es necesario (ej: instalación de librerías)
+4. **Reproducibilidad**
+    - Semilla global: `np.random.seed(42)`
+    - Semilla local en los modelos: `random_state = 42`
 
 ## 📊 Descripción de la Solución
 
