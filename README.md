@@ -1,4 +1,4 @@
-# Challenge: Segmentación de Sellers
+#Segmentación de Sellers
 
 ## 📋 Contexto
 
