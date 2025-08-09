@@ -6,15 +6,14 @@ Este reto consiste en abordar un caso de negocio real mediante el ciclo completo
 
 ## 🧩 Estructura del Repositorio
 
-- `challenge_clusterizacion_sellers.ipynb`: Notebook completo con extracción, análisis, clustering y extensión GenAI.
+- `Challenge_Meli.ipynb`: Notebook completo con análisis explotarorio, modelo kmeans y extensión de Gen AI
 - `presentacion.pdf` (opcional): Slides para la sustentación.
-- `data/`: Carpeta sugerida para guardar el CSV descargado.
-- Otros archivos auxiliares si los necesitas.
+- El archivo se sugiere subirlo manualmente a la terminal de Colab como se en la imagen ![Ubicación del archivo CSV](imagenes/Carga_CSV.png)
 
 ## 🚀 Instrucciones de Ejecución
 
-1. **Descarga el CSV** según el enlace provisto en el challenge y guárdalo en tu Google Drive o carpeta local.
-2. **Abre el notebook** `challenge_clusterizacion_sellers.ipynb` en Google Colab.
+1. **Descarga el CSV directamente de Drive** https://drive.google.com/drive/folders/1nGPM6Q3D7JGgnD3Q84520_HHms_NGkgR
+2. **Abre el notebook** `Challenge_Meli.ipynb` en Google Colab.
 3. **Ejecuta cada celda en orden**. El notebook está organizado por secciones:
     - Extracción/carga de datos
     - Análisis exploratorio
