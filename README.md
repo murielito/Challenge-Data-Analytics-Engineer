@@ -27,12 +27,12 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 
 ## 📊 Descripción de la Solución
 
-- Se realiza un análisis exploratorio para entender los patrones de los sellers.
-- Se aplican técnicas de clusterización (K-means) para segmentar según variables relevantes.
-- Se evalúa la calidad de los clusters y se interpretan sus perfiles.
+- Se realiza un análisis exploratorio para entender los datos, los tipos de datos, distribución de variables numéricas, completitud de la información, etc.
+- Se determina # óptimo de los clusters con el elbow method complementariamente con el Silhouette Score
+- Se aplican técnicas de clusterización (K-means) para segmentar los sellers según las variables seleccionadas
+- Perfilamiento de los clusters y recomendación de estrategias comerciales
 - Se implementa un módulo GenAI:
-    - **Opción A**: Clasificador semántico con embeddings generados por LLM.
-    - **Opción B**: Recomendador generativo de estrategias comerciales.
+    - **Opción A**: Clasificador semántico con embeddings generados por LLM, usando `sentence-transformers` y `LogisticRegression`
 
 ## 📑 Entregables
 
