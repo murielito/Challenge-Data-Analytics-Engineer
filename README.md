@@ -15,7 +15,7 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 ## 🚀 Instrucciones de Ejecución
 
 1. **Descarga el CSV directamente de Drive** https://drive.google.com/drive/folders/1nGPM6Q3D7JGgnD3Q84520_HHms_NGkgR
-2. **Abre el notebook** `Challenge_Meli.ipynb` en Google Colab
+2. **Abre el notebook** `Challenge_Meli.ipynb` en Google Colab, en caso de que la extensión no deje ver correctamente el código por los metadatos, este enlace lleva directamente al notebook en Google Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ra42_oCsbmShizyDSSS1J097n8OGEraA)    
 3. **Ejecuta cada celda en orden**. El notebook está organizado por secciones:
     - Carga del archivo, recordar montarlo manualmente a la terminal de Colab
     - Análisis exploratorio
