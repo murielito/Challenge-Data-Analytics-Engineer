@@ -32,7 +32,8 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 - Se aplican técnicas de clusterización (K-means) para segmentar los sellers según las variables seleccionadas
 - Perfilamiento de los clusters y recomendación de estrategias comerciales
 - Se implementa un módulo GenAI:
-    - **Opción A**: Clasificador semántico con embeddings generados por LLM, usando `sentence-transformers` y `LogisticRegression`
+    - **Opción A**: Clasificador semántico con embeddings generados por LLM, usando `SentenceTransformer` y `LogisticRegression`
+- Librerías utilizadas: pandas, numpy, scikit-learn, matplotlib, seaborn, sentence-transformers
 
 ## 📑 Entregables
 
