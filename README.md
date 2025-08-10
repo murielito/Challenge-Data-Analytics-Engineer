@@ -45,10 +45,13 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 | **2**   | Medio-bajo      | Alto           | Media                 | Media      | Muy bajo     |
 | **3**   | Bajo            | Medio          | Alta                  | Alta       | Alto         |
 
-(Imagenes/Clusters k=4.png)
+
+![Cargar el archivo](Imagenes/Clusters.png)
+
 
 - El número de clusters fue seleccionado con base en el método del codo
-- Se hicieron pruebas con más variables y no se veía una segmentación clara,se depuraron algunas para garantizar una segmentación relevante y accionable
+- Se hicieron pruebas con más variables y no se veía una segmentación clara, se depuraron variables como la desviación estándar del precio y el ratio de nuevos productos por seller para garantizar una segmentación relevante y accionable
+- Mayor detalle y las estrategias propuestas se pueden ver en la `presentación`
 
 ## 👤 Autor
 Santiago Dávila
