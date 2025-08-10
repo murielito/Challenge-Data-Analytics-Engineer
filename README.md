@@ -36,18 +36,15 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
     - **Opción A**: Clasificador semántico con embeddings generados por LLM, usando `SentenceTransformer` y `LogisticRegression`
 - Librerías utilizadas: pandas, numpy, scikit-learn, matplotlib, seaborn, sentence-transformers
 
-## Entregables
+## Zoom a los clusters
 
-- Notebook ejecutable y documentado.
-- Resultados y visualizaciones que respalden los análisis.
-- Código del módulo GenAI implementado.
-- Presentación (opcional) con el proceso, análisis, resultados y próximos pasos.
+| Cluster | Precio Promedio | Stock Promedio | Variedad de Categorías | Reputación | % Descuentos |
+|---------|-----------------|----------------|-----------------------|------------|--------------|
+| **0**   | Medio-bajo      | Bajo           | Baja                  | Media-alta | Muy bajo     |
+| **1**   | Alto            | Muy bajo       | Baja                  | Baja       | Muy bajo     |
+| **2**   | Medio-bajo      | Alto           | Media                 | Media      | Muy bajo     |
+| **3**   | Bajo            | Medio          | Alta                  | Alta       | Alto         |
 
-## Notas
-
-- Todo el flujo está documentado en el notebook para facilitar la comprensión y reproducibilidad.
-- Puedes adaptar la estructura según tus necesidades (por ejemplo, dividir en varios notebooks si lo prefieres).
-- El notebook funciona en Google Colab y no requiere dependencias fuera de las especificadas en las celdas de instalación.
 
 ## 👤 Autor
 Santiago Dávila
