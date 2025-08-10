@@ -371,6 +371,3 @@ prueba_vendedor = (
 nuevo_vector = model.encode([prueba_vendedor])
 prediccion_nuevo = reg_logistica.predict(nuevo_vector)
 print("Este nuevo vendedor pertenece al clúster:", prediccion_nuevo[0])
-
-##Ofrecer campañas de descuentos por volumen (si es un cluster de alto stock).
-##Priorizar en búsquedas de productos con alta rotación.
