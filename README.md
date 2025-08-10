@@ -45,6 +45,8 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 | **2**   | Medio-bajo      | Alto           | Media                 | Media      | Muy bajo     |
 | **3**   | Bajo            | Medio          | Alta                  | Alta       | Alto         |
 
+(Imagenes/Clusters k=4.png)
+
 - El número de clusters fue seleccionado con base en el método del codo
 - Se hicieron pruebas con más variables y no se veía una segmentación clara,se depuraron algunas para garantizar una segmentación relevante y accionable
 
