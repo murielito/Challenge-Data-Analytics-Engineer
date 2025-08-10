@@ -8,7 +8,7 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 
 - `Challenge_Meli.ipynb`: Notebook completo con análisis explotarorio, modelo kmeans y extensión de Gen AI
 - `prueba_meli.py`: Script Python
-- `presentacion.pdf` (opcional): Slides para la sustentación.
+- `Presentación_Caso.pdf`: Presentación de apoyo a la sustentación
 - El archivo se sugiere subirlo manualmente a la terminal de Colab o de Jupyter como se ve en la imagen:
   
 - ![Cargar el archivo](Imagenes/Carga_CSV.png)
