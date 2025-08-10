@@ -40,10 +40,10 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 
 | Cluster | Precio Promedio | Stock Promedio | Variedad de Categorías | Reputación | % Descuentos |
 |---------|-----------------|----------------|-----------------------|------------|--------------|
-| **0**   | Medio-bajo      | Bajo           | Baja                  | Media-alta | Muy bajo     |
-| **1**   | Alto            | Muy bajo       | Baja                  | Baja       | Muy bajo     |
-| **2**   | Medio-bajo      | Alto           | Media                 | Media      | Muy bajo     |
-| **3**   | Bajo            | Medio          | Alta                  | Alta       | Alto         |
+| **0**   | Medio-Bajo      | Medio-Bajo     | Baja                  | Media      | Muy Bajo     |
+| **1**   | Medio-Bajo      | Alto           | Media                 | Alta       | Muy Alto     |
+| **2**   | Muy Alto        | Bajo           | Baja                  | Media-Alta | Muy Bajo     |
+| **3**   | Medio-Alto      | Alto           | Muy Alta              | Alta       | Medio        |
 
 
 ![Cargar el archivo](Imagenes/Clusters.png)
