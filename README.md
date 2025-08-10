@@ -42,7 +42,7 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 |---------|-----------------|----------------|-----------------------|------------|--------------|
 | **0**   | Medio-Bajo      | Medio-Bajo     | Baja                  | Media      | Muy Bajo     |
 | **1**   | Medio-Bajo      | Alto           | Media                 | Alta       | Muy Alto     |
-| **2**   | Muy Alto        | Bajo           | Baja                  | Media-Alta | Muy Bajo     |
+| **2**   | Muy Alto        | Bajo           | Baja                  | Baja       | Muy Bajo     |
 | **3**   | Medio-Alto      | Alto           | Muy Alta              | Alta       | Medio        |
 
 
