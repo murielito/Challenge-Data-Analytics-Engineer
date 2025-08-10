@@ -51,7 +51,7 @@ Este reto consiste en abordar un caso de negocio real, incorporando herramientas
 
 - El número de clusters fue seleccionado con base en el método del codo
 - Se hicieron pruebas con más variables y no se veía una segmentación clara, se depuraron variables como la desviación estándar del precio y el ratio de nuevos productos por seller para garantizar una segmentación relevante y accionable
-- Mayor detalle y las estrategias propuestas se pueden ver en la `presentación`
+- Mayor detalle y las estrategias propuestas se pueden ver en la `Presentación_Caso.pdf`
 
 ## 👤 Autor
 Santiago Dávila
